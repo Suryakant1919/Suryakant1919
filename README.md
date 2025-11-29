@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 <h1 align="center">Hi 👋, I'm Suryakant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -23,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakant1919&" alt="suryakant1919" /></p>
 
--->
